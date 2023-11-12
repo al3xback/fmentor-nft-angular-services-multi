@@ -11,7 +11,7 @@ export class CardService {
 		imageUrl: '/assets/images/avatar.png'
 	};
 
-	getAllDatas() {
+	getCard() {
 		return new Card(
 			this.title,
 			this.description,
