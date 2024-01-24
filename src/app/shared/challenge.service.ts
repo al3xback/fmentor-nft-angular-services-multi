@@ -1,5 +1,5 @@
 export class ChallengeService {
-	name = 'NFT';
+	name = 'NFT preview card component';
 	creator = {
 		name: 'Frontend Mentor',
 		link: 'https://www.frontendmentor.io?ref=challenge'
